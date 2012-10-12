@@ -1,0 +1,8 @@
+Description:
+  Generates the migrations necessary for APN on Rails
+
+Usage:
+    rails g apn:apn_migrations
+  
+Examples:
+    rails g apn:apn_migrations
